@@ -184,15 +184,15 @@ ul.menu {
 
 .service-item h2 {
   font-family: Barlow Condensed;
-  font-size: 18px;
+  font-size: 20px;
   width: 120px;
   color: #001f38;
   flex: 1;
 }
 
 .service-item img {
-  width: 60px;
-  height: 60px;
+  width: 300px;
+  height: 300px;
   flex: 1;
 }
 
